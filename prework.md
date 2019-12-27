@@ -10,6 +10,14 @@
 
 ## Environment
 
+### Online Environment
+
+- Connect to [TRACE Camp Slack](https://join.slack.com/t/tracecamp/shared_invite/enQtNjc1MTUwODIxMjgyLWY0M2EwMjZmZjBmZDNjYzVhYzM5NWYzZTFjNGNlNGUxZDY4YTg1NGJlMGIyMGZmYTUxNTQ4ZGM5OGQ0ZDMyZmY)
+- Signup for [VS Code Online](https://visualstudio.microsoft.com/services/visual-studio-online/) ([tutorial](https://github.com/jlarmstrongiv/tracecamp-curriculum-graphql-winter-2020/blob/master/signup-guides/vscode-online-tutorial_Redacted.pdf)).
+- Signup for [Prisma.io](https://app.prisma.io/signup) and connect [Heroku](https://signup.heroku.com/) ([tutorial](https://github.com/jlarmstrongiv/tracecamp-curriculum-graphql-winter-2020/blob/master/signup-guides/prisma-heroku-tutorial_Redacted.pdf))
+
+### Local Environment
+
 * Connect to [TRACE Camp Slack](https://join.slack.com/t/tracecamp/shared_invite/enQtNjc1MTUwODIxMjgyLWY0M2EwMjZmZjBmZDNjYzVhYzM5NWYzZTFjNGNlNGUxZDY4YTg1NGJlMGIyMGZmYTUxNTQ4ZGM5OGQ0ZDMyZmY)
   * (Optional) Install [Slack](https://slack.com/downloads/)
 * Install [NodeJS](https://nodejs.org/en/)
