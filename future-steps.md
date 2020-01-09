@@ -52,6 +52,7 @@
 - Anthony Alicea https://www.udemy.com/user/anthonypalicea/
 - Stephen Grider https://www.udemy.com/user/sgslo/
 - Lazy Programmer Inc. https://www.udemy.com/user/lazy-programmer/
+- Wes Bos https://wesbos.com/courses/ (not udemy)
 
 #### Courses
 
