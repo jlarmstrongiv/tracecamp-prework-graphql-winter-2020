@@ -63,7 +63,8 @@
 
 - https://www.udemy.com/course/understand-javascript/
 - https://www.udemy.com/course/understand-nodejs/
-- https://www.udemy.com/course/javascript-bootcamp-2016/
+- https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/ (new)
+- https://www.udemy.com/course/javascript-bootcamp-2016/ (old)
 
 ##### React
 
